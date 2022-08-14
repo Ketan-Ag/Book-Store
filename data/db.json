@@ -1,0 +1,255 @@
+{
+    "Romance": [
+        {
+            "title":"Seven Days in June",
+            "author":"Tia Williams",
+            "price":"Rs. 299"
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        }
+    ],
+    "Action & Adventure": [
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        }
+    ],
+    "Mystery & Thriller": [
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price":""
+        }
+    ],
+    "Biographies & History": [
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price":""
+        }
+    ],
+    "Fantasy": [
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price":""
+        }
+    ],
+    "Comic Books":[
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price": ""
+        },
+        {
+            "title":"",
+            "price":""
+        }
+    ]
+}
